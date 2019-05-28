@@ -1,5 +1,5 @@
 {
-    "name": "ZuluNiner/SecSQL",
+    "name": "zuluniner/secsql",
     "type": "library",
     "description": "Easy PDO SQL querying library",
     "keywords": ["secure","SQL","php","pdo","easy"],
