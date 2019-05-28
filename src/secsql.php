@@ -1,6 +1,6 @@
 <?php
-namespace SECSQL;
-class Query{
+namespace ZuluNiner;
+class SecSQL{
 	private $query,$prepData = array(),$where,$whereData= array(),$limit,$dsn,$queryType,$whereSet = false,$userPass,$error,$order;
 	
 	//Default for mysql utf8 connection
